@@ -1,0 +1,5 @@
+Adventures In Maharashtra project is about exploring adventues projects in maharashtra.
+
+
+For running the project:-
+http://localhost/Adventures
